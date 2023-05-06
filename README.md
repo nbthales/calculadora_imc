@@ -1,1 +1,1 @@
-![Alt Text](https://bitbucket.org/nbthales/calculadora_imc/raw/582a9e73e27ac2c95dcb8d4c82d45edc440aa083/images/calculadora_imc.gif)
+![Alt Text](https://github.com/nbthales/calculadora_imc/blob/master/images/calculadora_imc.gif?raw=true)
